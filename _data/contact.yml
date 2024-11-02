@@ -5,7 +5,9 @@
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-
+- type: linkedin
+  icon: 'fab fa-linkedin' 
+  url: 'https://www.linkedin.com/in/0xmaverick/'
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
